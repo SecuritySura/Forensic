@@ -1,7 +1,7 @@
 # Linux Forensic
 this is an acquisition tool for linux forensic artifacts.
 it will collect,
-1. path meta data
+1. file paths meta data
 2. bash history files
 3. passwd file
 4. shadow file
