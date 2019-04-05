@@ -11,5 +11,5 @@ it will collect,
 8. auto start service details
 9. /var/log folder
 
-instructions to run
+instructions to run : 
  sudo sh Linux-Forensic-Bash-Script.sh
