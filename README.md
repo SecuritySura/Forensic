@@ -1,4 +1,4 @@
-# Linux #Forensic
+# Linux Forensic
 this is an acquisition tool for linux forensic artifacts.
 it will collect,
 1. path meta data
